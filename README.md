@@ -1,5 +1,9 @@
 # it_practical
 
+Siddharth Balyan
+2019CSC1041
+19068570023
+
 so for setting the project 
 -First install all the dependencies mentioned in the package.json file
 
