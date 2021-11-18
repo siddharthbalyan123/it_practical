@@ -1,0 +1,23 @@
+*{
+	margin:0;
+	padding:0;
+	font-family: 'Montserrat', sans-sherif;
+}
+.main{
+	margin:50px !important;
+	padding:20 20 120 20;
+}
+.forml{
+	margin:40px !important;
+	padding:20 20 120 20;
+	background-image:url("form.png") !important;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.back{
+	background-image:url("back.jpg") !important;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	color:white;
+}
+
