@@ -14,5 +14,5 @@ so for setting the project
   JWT_EXPIRES_IN = 360000
   JWT_COOKIE_EXPIRES_IN = 36000
 
--Lasty set the db according to the schema used in the code for that set the db using it_prac.sql provided.
+-Lasty set the db according to the schema used in the code for that create a db named it_prac and run the sql file ie. it_prac.sql provided.
 
